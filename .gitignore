@@ -16,7 +16,7 @@ db.sqlite3
 staticfiles/
 static/
 
-# Environment variables
+# Environment variables. Not needed
 .env
 *.env
 
