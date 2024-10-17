@@ -1,0 +1,33 @@
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+db.sqlite3
+*.sqlite3
+/media/
+staticfiles/
+static/
+
+# Environment variables
+.env
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Frontend (if applicable)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
