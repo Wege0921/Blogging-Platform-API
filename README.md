@@ -1,3 +1,0 @@
-# Blogging Platform API
-
-This project is a RESTful API built with Django and Django REST Framework, designed to power a blogging platform. The API provides endpoints for creating, reading, updating, and deleting blog posts, managing user authentication and authorization, and handling comments on posts. It supports user registration, login, and role-based access control for authors and readers. The platform is designed to be scalable and secure, featuring JWT-based authentication, robust error handling, and pagination for managing large datasets. This API can serve as the backend for a full-featured blogging application, allowing seamless integration with frontend frameworks.
